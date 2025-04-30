@@ -15,7 +15,7 @@ This project is a **FastAPI application** containerized using Docker, with **Git
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/BhavyaDhimxn/DevOps.git
+   git clone https://github.com/kartikbhatt2808/Test-automation.git
    cd DevOps
 
 1.  **Create and Activate Virtual Environment:**
